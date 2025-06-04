@@ -1,0 +1,11 @@
+@layer utilities {
+  .bg-soft-glow {
+    background-color: #fe9191;
+    background-image: 
+      radial-gradient(at 39% 25%, #fe9191 0%, transparent 60%),
+      radial-gradient(at 46% 57%, #e4406f 0%, transparent 50%),
+      radial-gradient(at 25% 45%, #ca2374 0%, transparent 40%),
+      radial-gradient(at 74% 66%, #9c297f 0%, transparent 30%);
+  }
+}
+
